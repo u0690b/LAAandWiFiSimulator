@@ -1,6 +1,10 @@
 # soket
 
-port:8888
+```bash
+java -jar LAAandWiFiSimulator.jar
+```
+
+listener port :8888
 
 # request
 
